@@ -2,7 +2,7 @@
 title: Rubens Plentz Gonçalves
 email: rubenspg@gmail.com
 url: https://rubenspg.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Software Engineer working at HP. Techologist enthusiastic."
 skills: "Software Engineer - Scrum Master (CSM)"
 meta_author: Goncalves Rubens
 
@@ -40,12 +40,8 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/rubenspg
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: http://linkedin.com/rubenspg
   - title: github
     url: http://github.com/rubenspg
 
@@ -53,9 +49,6 @@ social:
 address:
   - line: Porto Alegre
   - line: Brazil
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
